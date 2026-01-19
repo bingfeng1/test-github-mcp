@@ -12,7 +12,7 @@ def greet(name: str) -> str:
 def main():
     """主函数"""
     print("Hello, World!")
-    print("GitHub MCP 测试成功！")
+    print("GitHub MCP 测试成功！！！！！")
     print(greet("Claude"))
     print("更新测试完成")
 
