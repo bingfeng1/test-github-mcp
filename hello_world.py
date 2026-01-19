@@ -5,7 +5,7 @@
 
 def main():
     print("Hello, World!")
-    print("GitHub MCP 测试成功！")
+    print("GitHub MCP 测试成功！！！！")
 
 if __name__ == "__main__":
     main()
