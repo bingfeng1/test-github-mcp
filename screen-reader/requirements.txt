@@ -1,0 +1,7 @@
+# 屏幕区域文字提取和语音播报工具依赖
+pyautogui>=0.9.54
+pytesseract>=0.3.13
+pyttsx3>=2.90
+Pillow>=10.4.0
+opencv-python>=4.10.0
+numpy>=1.26.0
